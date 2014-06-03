@@ -18,18 +18,17 @@ This plugin allows admin to add WordPress and custom menus to admin bar, change 
 
 == Description == 
 
-<ul>
-	<li>Change the "Howdy" greeting message.</li>
-	<li>Add new custom logo to admin bar.</li>
-	<li>Hide Links : WordPress, BuddyPress, BuddyPress Links, SEO By Yoast, bbPress, W3 Total cache, rtMedia, Events Manager links in admin bar and main menu. (My account menu).</li>
-	<li>Hide admin bar according to the user roles. Compatible with s2member framework.</li>
-	<li>Move admin bar to bottom.</li>
-	<li>Toggle / Auto hide admin bar.</li>
-	<li>Change admin bar and menu background colors using with or without CSS gradient patterns or/and background images. Ten (10) gradient patterns are available.</br></li>
-	<li>Add CSS shadows to texts, menus and menu items. Twelve (12) menu shadows and Twenty (20) menu item shadows are available.</br></li>
-	<li>Add WordPress menus to admin bar with menu icons.</li>
-	<li>Add custom menus (depth 2) to admin bar with menu icons.</li>
-	<li>Apply custom CSS codes to admin bar.</li>
+Change the "Howdy" greeting message.
+Add new custom logo to admin bar.
+Hide Links : WordPress, BuddyPress, BuddyPress Links, SEO By Yoast, bbPress, W3 Total cache, rtMedia, Events Manager links in admin bar and main menu. (My account menu).
+Hide admin bar according to the user roles. Compatible with s2member framework.
+Move admin bar to bottom.
+Toggle / Auto hide admin bar.
+Change admin bar and menu background colors using with or without CSS gradient patterns or/and background images. Ten (10) gradient patterns are available.
+Add CSS shadows to texts, menus and menu items. Twelve (12) menu shadows and Twenty (20) menu item shadows are available.
+Add WordPress menus to admin bar with menu icons.
+Add custom menus (depth 2) to admin bar with menu icons.
+Apply custom CSS codes to admin bar.
 </ul>
 
 == Installation ==
