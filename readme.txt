@@ -31,7 +31,7 @@ Add CSS shadows to texts, menus and menu items. Twelve (12) menu shadows and Twe
 Add WordPress menus to admin bar with menu icons.
 Add custom menus (depth 2) to admin bar with menu icons.
 Apply custom CSS codes to admin bar.
-</ul>
+
 
 == Installation ==
 
