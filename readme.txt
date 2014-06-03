@@ -38,7 +38,7 @@ Apply custom CSS codes to admin bar.
 Upload the folder 'wordpress-all-in-one-adminbar' found inside the zip to the /wp-content/plugins/ directory
 Activate the plugin through the 'Plugins' menu in WordPress
 Go to Settings --> WPAIO Adminbar in WordPress admin area.
-For details go to demo video : https://www.youtube.com/watch?v=fHm67BUmh5M&hd=1
+For more details go to demo video : https://www.youtube.com/watch?v=fHm67BUmh5M&hd=1
 
 == Frequently Asked Questions ==
 
