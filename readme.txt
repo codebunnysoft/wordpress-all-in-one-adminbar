@@ -18,6 +18,8 @@ This plugin allows admin to add WordPress and custom menus to admin bar, change 
 
 == Description == 
 
+This plugin has following features.
+
 Change the "Howdy" greeting message.
 Add new custom logo to admin bar.
 Hide Links : WordPress, BuddyPress, BuddyPress Links, SEO By Yoast, bbPress, W3 Total cache, rtMedia, Events Manager links in admin bar and main menu. (My account menu).
